@@ -9,6 +9,7 @@ verify_ssl = true
 tweepy = "*"
 pymongo = "*"
 python-dotenv = "*"
+mrjob = "*"
 
 [requires]
 python_version = "3.6"
